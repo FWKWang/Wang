@@ -1,0 +1,39 @@
+body{
+	font-family:Arial;
+    font-size:12px;
+    text-align: center;
+}
+
+h1{
+    font-size:30px;
+}
+
+form{
+    font-family: 'Times New Roman';
+    text-align: center;
+    width:350px;
+    margin:auto;
+}
+
+fieldset{
+    width:350px;
+    background-color: lightgray;
+}
+
+div{
+    text-align: center;
+}
+
+legend{
+    font-weight: bold;
+}
+
+label{
+    width:150px;
+    height:150px;
+}
+
+#formulario input.input_texto{
+    width:100px;
+}
+
