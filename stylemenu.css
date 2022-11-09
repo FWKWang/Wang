@@ -1,0 +1,29 @@
+#menu ul.menu{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(158, 157, 157);
+    position: none;
+    top: 0;
+    width: 100%;
+}
+
+#menu li.menu{
+    float: left;
+
+}
+
+#menu a.menu{
+    display: block;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#menu li a:hover{
+    background-color: aqua;
+}
+
+/* Código desenvolvido no dia 09/11/2022 */
